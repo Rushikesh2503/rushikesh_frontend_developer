@@ -37,3 +37,6 @@ This project is a part of the assignment purpose. The goal was to build a React 
 ## Deployed Demo Link
 
 
+## Note:
+All the images links have been taken from (unsplash.com, spaceX & pixabay.com ) websites here are just for the making this assignment and for learning purposes.
+
