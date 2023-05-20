@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    text-decoration: none !important;
+  }
+
+.control-dots{
+    margin: 0 !important;
+}
+.space_x_logo{
+  width: 300px;
+  margin: 1.2rem;
+  margin-left: 80px;
+}
+
