@@ -8,14 +8,10 @@ const SearchContainer = () => {
   const [status, setStatus] = useState("");
   const [capsuleSerial, setCapsuleSerial] = useState("");
   const data = useSelector((store) => store.reducer);
-  const [capsuleSerialOpt, setCapsuleSerialOpt] = useState([]);
-  const [capsuleStatusOpt, setCapsuleStatusOpt] = useState([]);
   const [total, setTotal] = useState(data.length);
 
   useEffect(() => {
     setTotal(data.data.length);
-    setCapsuleSerialOpt(data.capsuleSerialArray);
-    setCapsuleStatusOpt(data.capsuleStatusArray);
   }, [data]);
 
   function handelFilters() {
