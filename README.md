@@ -5,7 +5,7 @@ This is a React application that allows users to explore and share SpaceX data w
 SpaceX (Space Exploration Technologies Corp.) is a private aerospace manufacturer and space transportation company. They specialize in designing, manufacturing, and launching advanced rockets and spacecraft. More information about SpaceX can be found on their [official website](https://www.spacex.com).
 
 ## Overview
-This project is a part of the assignment purpose. The goal was to build a React application that interacts with the SpaceX data API to display Rockets or Capsules. The application consists of a landing page with a banner, search form, and a data grid.
+ The goal was to build a React application that interacts with the SpaceX data API to display Rockets or Capsules. The application consists of a landing page with a banner, search form, and a data grid.
 
 ## Features
 
@@ -38,5 +38,5 @@ This project is a part of the assignment purpose. The goal was to build a React 
 https://rushikesh-frontend-developer.vercel.app/
 
 ## Note:
-All the images links have been taken from (unsplash.com, spaceX & pixabay.com ) websites here are just for the making this assignment and for learning purposes.
+All the images links have been taken from (unsplash.com, spaceX & pixabay.com ) websites here are just for the learning purposes.
 
