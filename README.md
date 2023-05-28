@@ -35,7 +35,7 @@ SpaceX (Space Exploration Technologies Corp.) is a private aerospace manufacture
 3. Data Grid: The data grid displays the search results in a paginated manner. Clicking on an item will open a popup with detailed item data.
 
 ## Deployed Demo Link
-https://rushikesh-frontend-developer.vercel.app/
+https://space-x-clone-rushikesh2503.vercel.app/
 
 ## Note:
 All the images links have been taken from (unsplash.com, spaceX & pixabay.com ) websites here are just for the learning purposes.
